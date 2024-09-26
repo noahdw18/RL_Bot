@@ -1,0 +1,41 @@
+{
+  "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python": "3.10.12",
+  "startedAt": "2024-09-24T14:02:34.574727Z",
+  "program": "/home/noahdw/Personal/RL_Bot/example.py",
+  "codePath": "example.py",
+  "git": {
+    "remote": "git@github.com:noahdw18/RL_Bot.git"
+  },
+  "email": "noahdw@umich.edu",
+  "root": "/home/noahdw/Personal/RL_Bot",
+  "host": "Noah-W",
+  "username": "noahdw",
+  "executable": "/usr/bin/python3",
+  "codePathLocal": "example.py",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "[NVIDIA GeForce RTX 4070]",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1081101176832",
+      "used": "79907930112"
+    }
+  },
+  "memory": {
+    "total": "15717298176"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4070",
+      "memoryTotal": "12878610432",
+      "architecture": "Ada"
+    }
+  ],
+  "cudaVersion": "12.4"
+}

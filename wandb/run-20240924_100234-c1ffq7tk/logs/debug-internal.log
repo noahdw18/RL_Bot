@@ -1,0 +1,25 @@
+{"time":"2024-09-24T10:02:34.576959782-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-24T10:02:34.576973092-04:00","level":"INFO","msg":"created symlink","path":"/home/noahdw/Personal/RL_Bot/wandb/run-20240924_100234-c1ffq7tk/logs/debug-core.log"}
+{"time":"2024-09-24T10:02:34.577008952-04:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-24T10:02:34.577012672-04:00","level":"INFO","msg":"created symlink","path":"/home/noahdw/Personal/RL_Bot/wandb/run-20240924_100234-c1ffq7tk/logs/debug-core.log"}
+{"time":"2024-09-24T10:02:34.613958525-04:00","level":"INFO","msg":"created new stream","id":"c1ffq7tk"}
+{"time":"2024-09-24T10:02:34.613991345-04:00","level":"INFO","msg":"stream: started","id":"c1ffq7tk"}
+{"time":"2024-09-24T10:02:34.614013884-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"c1ffq7tk"}}
+{"time":"2024-09-24T10:02:34.614014636-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"c1ffq7tk"}}
+{"time":"2024-09-24T10:02:34.614038442-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"c1ffq7tk"}}
+{"time":"2024-09-24T10:02:35.038890349-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-24T10:02:35.040032177-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-24T10:07:50.319597912-04:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-09-24T10:51:20.183568567-04:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/noahdw-university-of-michigan/rlgym-ppo/c1ffq7tk/file_stream"}
+{"time":"2024-09-24T15:00:58.166981647-04:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-24T15:02:45.155646491-04:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/noahdw-university-of-michigan/rlgym-ppo/c1ffq7tk/file_stream"}
+{"time":"2024-09-24T15:31:57.242034847-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-24T15:31:57.242955749-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-24T15:31:57.396108948-04:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-09-24T15:31:57.396514284-04:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-09-24T15:31:57.396590133-04:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-09-24T15:31:59.601918579-04:00","level":"INFO","msg":"stream: closing","id":"c1ffq7tk"}
+{"time":"2024-09-24T15:31:59.601951628-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"c1ffq7tk"}}
+{"time":"2024-09-24T15:31:59.601987708-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"c1ffq7tk"}}
+{"time":"2024-09-24T15:31:59.602003001-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"c1ffq7tk"}}
+{"time":"2024-09-24T15:31:59.602200589-04:00","level":"INFO","msg":"stream: closed","id":"c1ffq7tk"}
